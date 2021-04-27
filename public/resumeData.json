@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Deyanira Villamar Davila Orihuela",
+    "shortName": "Deyanira Davila",
+    "description": "SCRUM MASTER, QA AND SOFTWARE DEVELOPER ENGINEER",
+    "image": "profilepic.jpg",
+    "bio": "Over 10 years of experience including Software development and software testing. Graduated as a computer system engineer. I really enjoy analyzing and propose solutions to IT problems. I have experience leading QA and Development teams.",
+    "contactmessage": "",
+    "email": "deyanira.davila.o@gmail.com",
+    "phone": "",
+    "github": "https://github.com/villerose25",
+    "brand": "https://github.com/orgs/inctech-mx",
+    "linkedin": "https://www.linkedin.com/in/deyanira-davila",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": "Mexico",
+      "zip": ""
+    },
+    "website": "https://www.facebook.com/search/top?q=Inctech%20Consulting",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deyanira-davila/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universidad del Valle de Mexico",
+        "degree": "Masters in Business Administration",
+        "graduated": "2015",
+        "description": "MBA Finances oriented"
+      },
+      {
+        "school": "Instituto Tecnologico de Saltillo",
+        "degree": "Computer Systems Enginering",
+        "graduated": "December 2009",
+        "description": "Software Development oriented."
+      },
+      {
+        "school": "CETIS 48",
+        "degree": "Technical Programming Career",
+        "graduated": "June 2005",
+        "description": "High School and Technical Programming Career"
+      }
+    ],
+    "work": [
+      {
+        "company": "HEXAWARE TECHNOLOGIES",
+        "title": "Sr Consultant",
+        "years": "October 2013 - Present (Coahuila, Mexico)",
+        "description": "Scrum master over 4 years for QA and Development teams. Software development using Java and C#. HP ALM administrator and created plugins using OTA and REST API. Manual and test automation scripts development. Experience in developing test plans and data requirements for different industry sectors such as Automotive, health and mobile."
+      },
+      {
+        "company": "STACKIT - Freelance",
+        "title": "PM",
+        "years": "May 2020 - December 2020 (Remote)",
+        "description": "I was in charge of one development team, helped with testing activities, I was the first point of contact to gather requirements, helped to create processes for the company related to Scrum mindset and helped reviewing interviews for new talent for the company."
+      },
+      {
+        "company": "ADVANCED BUSINESS SYSTEMS",
+        "title": "Software Developer",
+        "years": "March 2012 - October 2013 (Coahuila, Mexico)",
+        "description": "Developer of the ERP system that the enterprise created for government purposes below PSP framework. Strong skills using database procedures, triggers and functions manipulations."
+      },
+      {
+        "company": "IIDEA-DeAcero",
+        "title": "Jr Software Developer",
+        "years": "May 2011 - March 2012 (Nuevo Leon, Mexico)",
+        "description": "Developer for the SCADA application made to interact with steel software. Planned, documented and developed small applications."
+      },
+      {
+        "company": "COMIMSA",
+        "title": "Jr Software Developer / Intern",
+        "years": "August 2009 - April 2011 (Coahuila, Mexico)",
+        "description": "Developer below CMMI framework. Planned, developed and documented functionalities for SIG system."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Spanish",
+        "level": "100%"
+      },
+      {
+        "name": "English",
+        "level": "90%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Selenium",
+        "level": "80%"
+      },
+      {
+        "name": "HP UFT, HP ALM",
+        "level": "80%"
+      },
+      {
+        "name": "API Testing",
+        "level": "20%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "70%"
+      },
+      {
+        "name": "Protractor/Cypress",
+        "level": "40%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Inctech Consulting",
+        "category": "A startup that I am owner",
+        "image": "inctech.jpg",
+        "url": "https://www.facebook.com/search/top?q=Inctech%20Consulting/"
+      },
+      {
+        "title": "Consultoria SSP",
+        "category": "(under development) A page I am working with my brother",
+        "image": "ssp-logo.png",
+        "url": "https://www.consultoria-ssp.com/"
+      },
+      {
+        "title": "Equipos y Fluidos Quimicos",
+        "category": "(under development) A page I am working with my brother.",
+        "image": "efq.png",
+        "url": "http://equiposyfluidosquimicos.com.mx/"
+      }
+    ]
+  }
+}
